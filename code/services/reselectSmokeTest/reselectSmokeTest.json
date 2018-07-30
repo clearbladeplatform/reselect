@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,reselect",
+    "logging_enabled": "false",
+    "name": "reselectSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "reselectSmokeTest.js"
+}
